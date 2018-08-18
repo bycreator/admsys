@@ -1,3 +1,11 @@
+
+/* Login */
+.dark {
+    background-color: #111316 !important;
+}
+
+
+/* Index */
 aside.main-sidebar.fixed.offcanvas.shadow.text-white.no-b.left-bycreator {
     background: #151515;
 }
@@ -5,3 +13,4 @@ aside.main-sidebar.fixed.offcanvas.shadow.text-white.no-b.left-bycreator {
 .offcanvas .sidebar-menu li a:hover {
     background-color: #272c33 !important;
 }
+
